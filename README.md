@@ -43,9 +43,7 @@ Currently focusing on strengthening my **core programming skills** and **fronten
 
 ---
 
-## 📊 GitHub Stats
 
-![Ayush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=starayush11&show_icons=true&cache_seconds=86400&hide_border=true)
 
 ---
 
