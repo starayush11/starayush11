@@ -48,7 +48,7 @@ Currently focusing on strengthening my **core programming skills** and **fronten
 ---
 
 ## 📫 Connect With Me
-- 💼 LinkedIn: www.linkedin.com/in/ayush-saraswat-972a09381 
+- 💼 LinkedIn: https://www.linkedin.com/in/ayush-saraswat-a44610326
 - 🧠 LeetCode: https://leetcode.com/u/saraswat9772/ 
 - 📧 Email: aayushsaraswat2005@gmail.com  
 
